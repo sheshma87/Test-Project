@@ -1,0 +1,6 @@
+Constranit Rule Conditions
+1.Inclusion
+2.Exclusion
+3.Validation
+4.Recommendation
+5.Replacement
